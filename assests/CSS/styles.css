@@ -349,10 +349,10 @@ color: black;
         align-items: center;
     }
 
-    /* .main-section {
+    .main-section {
         display: grid;
         grid-template-columns: 1fr 1fr;
-    } */
+    }
 
     .about-list {
         display: flex;
